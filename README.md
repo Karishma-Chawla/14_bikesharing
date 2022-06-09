@@ -6,13 +6,17 @@ The purpose of the current analysis is to prepare visualizations for Investors a
 
 
 # Results
+Link to Story Board : https://public.tableau.com/app/profile/karishma2980/viz/StoryBoard_16547215770930/StoryBoard
 ##  Hourly wise Usage during week
+Link https://public.tableau.com/app/profile/karishma2980/viz/TripsbyWeekdayperhour_16547134810700/TripsbyWeekdayperhour
+
 ![image](https://user-images.githubusercontent.com/98617082/172862918-e0d03bc4-e4fd-4d49-b096-26e1f7ed038f.png)
 
 
 Analysing use of bikes start time and stop time by day of the week shows that the start time has two peaks times - in morning and evening office commuting hours during the week days .For weekends, late mornings to evenings are busy. 
 
 ##  Gender wise Hourly Usage 
+Link https://public.tableau.com/app/profile/karishma2980/viz/TripsbyGenderWeekdayperHour_16547143957610/TripsbyGenderWeekdayperHour
 ![image](https://user-images.githubusercontent.com/98617082/172863150-33ae52b0-c26d-4abb-9ff9-edc3f39edaf1.png)
 
 
@@ -21,6 +25,8 @@ Analysing use of bikes start time and stop time by day of the week shows that th
 This visualization shows gender wise breakup of bike use during week days. Male users have higher usage of the bikes and their usage is skewed towards the end of the week, Thursday through Saturday than early week days. Female users use the bike lesser but their usage is more evenly spread out across the week.
 
 ## Subscribers and customers.
+Link https://public.tableau.com/app/profile/karishma2980/viz/UserTripsbyGenderbyWeekday_16547139911690/UserTripsbyGenderbyWeekday
+
 ![image](https://user-images.githubusercontent.com/98617082/172863248-78919a7c-6051-42b5-bbe8-1bbac5a5359c.png)
 
 
@@ -30,12 +36,15 @@ This figure looked at the split of usage between subscribers and customers. Male
 
 
 ## Checkout time for users
+ Link https://public.tableau.com/app/profile/karishma2980/viz/CheckoutTimesforUsers_16547133908210/CheckoutTimeforUsers
  ![image](https://user-images.githubusercontent.com/98617082/172863309-23bd32a3-4bac-488e-ac19-28c5175a7718.png)
 
 
 This image shows how long of a trip the user rode for. This shows that most frequent trip duration for the bike was less than an hour. 
 
 ## Gender wise split of Check out time for users
+Link https://public.tableau.com/app/profile/karishma2980/viz/CheckoutTimebyGender_16547134333540/CheckoutTimebyGender
+
 ![image](https://user-images.githubusercontent.com/98617082/172863690-b13ab088-8587-4c17-8060-48c9ace03389.png)
 
 
@@ -44,6 +53,7 @@ This image shows how long of a trip the user rode for. This shows that most freq
 This image shows how long of a trip the user rode for by each gender. While the most frequent trip duration for the bike was less than an hour for each gender, overall Males were the dominant category of bikes renters. 
 
 ## Gender wise users
+
  ![image](https://user-images.githubusercontent.com/98617082/172863498-f41286a8-2a39-4649-bea5-5366078a616b.png)
 
 
