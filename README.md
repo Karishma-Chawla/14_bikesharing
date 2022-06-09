@@ -53,6 +53,7 @@ Link https://public.tableau.com/app/profile/karishma2980/viz/CheckoutTimebyGende
 This image shows how long of a trip the user rode for by each gender. While the most frequent trip duration for the bike was less than an hour for each gender, overall Males were the dominant category of bikes renters. 
 
 ## Gender wise users
+Link : https://public.tableau.com/app/profile/karishma2980/viz/CustomerType_16547223949510/StoryBoard
 
  ![image](https://user-images.githubusercontent.com/98617082/172863498-f41286a8-2a39-4649-bea5-5366078a616b.png)
 
@@ -61,6 +62,7 @@ There is a much higher number of male bike share users, than female users. Even 
 
 
 ## Usage in August
+Link : https://public.tableau.com/app/profile/karishma2980/viz/PeakRidingHours/StoryBoard
 ![image](https://user-images.githubusercontent.com/98617082/172863629-11b2cc8d-6cd1-4156-8db8-0c0673962891.png)
 
 When looking at the breakdown of peak hours that the bikes are utilized, commuting hours seem to have the highest number of rides. 
