@@ -1,8 +1,21 @@
 # Overview
-The purpose of the current analysis is to prepare visualizations for Investors are considering funding a bike sharing program. The bike share data from New York City is visualized using Tableau to present the data to the investors. The key questions being answered in this analysis are:
+The purpose of the current analysis is to prepare visualizations representing metrics on the bike-sharing business model in NYC to facilitate investment decision. 
+
+<img width="645" alt="bikeshare" src="https://user-images.githubusercontent.com/98617082/186014269-aef6deb4-9cfc-4161-a582-43513d3e0ba1.png">
+
+The bike share data from New York City is visualized using Tableau to present the data to the investors. The key questions being answered in this analysis are:
 •	Show the length of time that bikes are checked out for all riders and genders
 •	Show the number of bike trips for all riders and genders for each hour of each day of the week
 •	Show the number of bike trips for each type of user and gender for each day of the week.
+
+# Data
+
+CSV file containing data on trip duration, start and end time, information on start and end station,bike id, and User information, 
+
+Source:https://ride.citibikenyc.com/system-data; 
+Size: 450 MB
+![image](https://user-images.githubusercontent.com/98617082/186013052-e814cb79-e1a0-40d5-ada1-67fc39c5b8a2.png)
+
 
 
 # Results
